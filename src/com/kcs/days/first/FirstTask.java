@@ -1,4 +1,4 @@
-package firstDay;
+package com.kcs.days.first;
 
 import java.util.Scanner;
 
